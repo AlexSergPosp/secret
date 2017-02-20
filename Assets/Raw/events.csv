@@ -1,0 +1,4 @@
+id ,name,description,value,isCool
+boyarishnik,boyarName,boyarDesc,0.7,1
+ostanovka,ostanovkaName,ostanovkaDesc,0.4,1
+conflict,conName,conDesc,0.6,1
